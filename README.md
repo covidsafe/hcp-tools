@@ -11,7 +11,7 @@ Below are steps to recreate the demo:
 1. Make a copy of the Google Forms template
 2. Navigate to the spreadsheet backing the Google Form (where all the responses are submitted to)
 3. Click *Tools > Script Editor*
-4. Copy in the [example script] (https://github.com/covidsafe/hcp-tools/blob/master/Code.gs)
+4. Copy in the [example script](https://github.com/covidsafe/hcp-tools/blob/master/Code.gs)
 5. Modify the script as necessary:
 - You can add your own API endpoint that the messages are sent to.
 - You can add an email address to receive immediate confirmations when someone has made a submission with the Google Form
