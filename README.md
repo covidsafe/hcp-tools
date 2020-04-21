@@ -1,4 +1,4 @@
-# hcp-tools
+# CovidSafe tools for healthcare professionals
 
 Whether you are a public health official, healthcare personnel or human resource manager, you can use CovidSafe to broadcast public service announcements of interest to users with the app within a bounded geographic region.
 
