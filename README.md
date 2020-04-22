@@ -9,7 +9,7 @@ The instructions below describe how to set up the demo so that you can submit a 
 [Here](https://docs.google.com/forms/d/10kpUVfcqvBc5ZjWBTJQI8EQUHSc9mchx5vvCYw5PL6w/edit?usp=sharing) is the read-only Google Form template used for the demo:
 
 Below are steps to recreate the demo:
-1. Make a copy of the Google Forms template
+1. Make a copy of the above Google Forms sheet by going [here](https://docs.google.com/forms/d/10kpUVfcqvBc5ZjWBTJQI8EQUHSc9mchx5vvCYw5PL6w/copy)
 2. Navigate to the spreadsheet backing the Google Form (where all the responses are submitted to)
 3. Click *Tools > Script Editor*
 4. Copy in the [example script](https://github.com/covidsafe/hcp-tools/blob/master/Code.gs)
