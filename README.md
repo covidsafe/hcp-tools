@@ -2,12 +2,11 @@
 
 Whether you are a public health official, healthcare personnel or human resource manager, you can use CovidSafe to broadcast public service announcements of interest to users with the app within a bounded geographic region.
 
-Here is a quick [video](https://www.youtube.com/watch?v=mweXe470Mrs) (0:40) demo showing what this script enables.
+Here is a quick [video](https://www.youtube.com/watch?v=sdu5YkUmRB8) (0:47) demo showing what this script enables.
 
 The instructions below describe how to set up the demo so that you can submit a message through the form, which then gets uploaded to a server, and which also results in an email confirmation.
 
-[Here](https://docs.google.com/forms/d/10kpUVfcqvBc5ZjWBTJQI8EQUHSc9mchx5vvCYw5PL6w/edit?usp=sharing
-) is the read-only Google Form template used for the demo:
+[Here](https://docs.google.com/forms/d/10kpUVfcqvBc5ZjWBTJQI8EQUHSc9mchx5vvCYw5PL6w/edit?usp=sharing) is the read-only Google Form template used for the demo:
 
 Below are steps to recreate the demo:
 1. Make a copy of the Google Forms template
