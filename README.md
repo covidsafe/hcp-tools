@@ -14,11 +14,11 @@ Below are steps to recreate the demo:
 3. Click *Tools > Script Editor*
 4. Copy in the [example script](https://github.com/covidsafe/hcp-tools/blob/master/Code.gs)
 5. Modify the script as necessary:
-- You can add your own API endpoint that the messages are sent to.
+- You can add your own API endpoint that the messages are sent to.<br/>
 `var url = 'https://csapi.azurefd.net/api/Messages/AreaReport';`
-- You can add an email address to receive immediate confirmations when someone has made a submission with the Google Form
+- You can add an email address to receive immediate confirmations when someone has made a submission with the Google Form<br/>
 `MailApp.sendEmail("covidsafe.uw@gmail.com",...`
-- You can specify a map of districts, where each district corresponds to a latitude, longitude and radius in meters
+- You can specify a map of districts, where each district corresponds to a latitude, longitude and radius in meters<br/>
 `coords={
   "Atlantic":[0,0,0],
   "Ballard":[0,0,0],...`
