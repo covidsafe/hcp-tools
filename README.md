@@ -22,9 +22,11 @@ Below are steps to recreate the demo:
 `coords={
   "Atlantic":[0,0,0],
   "Ballard":[0,0,0],...`
+You may want to change these values to your current physical coordinates to see the notification on the CovidSafe smartphone app.
 6. In the script editor click *Edit > Current project triggers*
 7. Add a trigger
 - Select the 'work' function to execute
 - Event source: from spreadsheet
 - Event type: On form submit
-8. You are done. Try submitting information through the form. Check your email for confirmation and check your project triggers to see they have been executed on form submission.
+8. Try submitting information through the form. Check your email for confirmation and check your project triggers to see they have been executed on form submission.
+9. Clone the CovidSafe Android [repository](https://github.com/covidsafe/App-Android), make sure to set DEBUG to true and pull down on the home page to refresh. You sould now see your broadcast messages. You will only see notifications from the server that you have not already seen on your smartphone.
